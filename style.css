@@ -1,0 +1,33 @@
+
+      .container {
+        margin: auto;
+        width: 800px;
+        height: 600px;
+        background-color: rgb(238, 245, 240);
+        text-align: center;
+      }
+      h1 {
+        font-size: 50px;
+        padding: 50px;
+      }
+      .btn {
+        font-size: 25px;
+        background-color: hsl(209, 87%, 58%);
+        border: 2px solid black;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        cursor: pointer;
+      }
+      input {
+        border: 2px solid black;
+        padding-top: 5px;
+        padding-bottom: 5px;
+      }
+      #text {
+        font-size: 35px;
+        font-weight: bold;
+        color: green;
+      }
+      input {
+        font-size: 25px;
+      }
